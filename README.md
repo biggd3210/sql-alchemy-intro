@@ -1,0 +1,1 @@
+Attempting to demo connecting database to flask app. However, when attempted, the only thing returned for the db variable in the app.py folder is '<SQLAlchemy>' instance with no contained data. Further, does not raise error when dir for db does not exist.
